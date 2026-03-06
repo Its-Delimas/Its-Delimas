@@ -1,13 +1,3 @@
-# 💫 About Me:
-<br>I'm an IT student and aspiring full stack developer who enjoys turning ideas into working web applications.<br><br>
-
-🛠 Currently working with **JavaScript, React, Node.js, and databases**  
-📚 Learning backend architecture, APIs, and scalable systems  
-🚀 Building projects that solve real problems  
-🌍 Long-term goal: build and launch my own tech products  
-
----
-
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
